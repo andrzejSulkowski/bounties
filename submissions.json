@@ -22,5 +22,14 @@
 			"https://medium.com/@brunopgalvao/deploying-your-first-contract-to-polkadot-in-5minutes-5cf190601b99",
 			"https://www.youtube.com/watch?v=TwT2eX58Rc8"
 		]
+	},
+	{
+		"author": "sam0x17",
+		"description": "added github embedding feature to docify at parity's request",
+		"evidence": [
+			"https://github.com/sam0x17/docify/pull/29",
+			"https://github.com/sam0x17/docify/pull/30",
+			"https://github.com/sam0x17/docify/releases/tag/v0.3.0"
+		]
 	}
 ]
